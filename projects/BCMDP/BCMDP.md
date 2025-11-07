@@ -6,7 +6,7 @@ The research imposed standard Markov Decision Processes (MDPs) with $(\sigma, \r
 
 The main contribution was developing an **augmented-state model** to transform the inherently history-dependent problem into one solvable by standard dynamic programming methods. Building upon this model, I **proposed efficient algorithms** to solve the BCMDP problem and **proved their convergence and correctness (optimality of the resulting policy)**.
 
-<p align="center"><img src="BCMDP.png" width="600"/></p>
+<p align="center"><img src="BCMDP.png" width="500"/></p>
 
 ## Thesis
 [Full Thesis (pdf)]("BCMDP thesis.pdf")
@@ -21,7 +21,7 @@ The main contribution was developing an **augmented-state model** to transform t
 ```
 
 ## Paper
-[Published Paper on EJOR]("BCMDP EJOR publicaion.pdf")
+[Published Paper on EJOR (pdf)]("BCMDP EJOR publicaion.pdf")
 ```bibtex
 @article{GOLAN2024877,
     title = {Markov decision processes with burstiness constraints},
