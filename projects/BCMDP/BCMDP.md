@@ -7,7 +7,7 @@ The research imposed standard Markov Decision Processes (MDPs) with $(\sigma, \r
 The main contribution was developing an **augmented-state model** to transform the inherently history-dependent problem into one solvable by standard dynamic programming methods. Building upon this model, I **proposed efficient algorithms** to solve the BCMDP problem and **proved their convergence and correctness (optimality of the resulting policy)**.
 
 ## Thesis
-[Full Thesis (pdf)](BCMDP thesis.pdf)
+[Full Thesis (pdf)]("BCMDP thesis.pdf")
 
 Citation:
 ```bibtex
@@ -21,7 +21,7 @@ Citation:
 ```
 
 ## Paper
-[Published Paper (EJOR)](BCMDP EJOR publicaion.pdf)
+[Published Paper on EJOR]("BCMDP EJOR publicaion.pdf")
 
 Citation:
 ```bibtex
