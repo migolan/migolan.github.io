@@ -1,3 +1,6 @@
-# Michal Golan [![](icons/github-mark-white.png)](github.com/migolan) [![](icons/InBug-White.png)](linkedin.com/in/michal-golan)
+# Michal Golan <a href="github.com/migolan"><img src=icons/github-mark-white.png width="30"/></a>  <a href="linkedin.com/in/michal-golan"><img src=icons/InBug-White.png width="30"/></a>
 
-<table><tbody><tr><td><p><a href="github.com/migolan/nuFFTW" rel="noopener noreferrer nofollow"><img alt="" width="300" src="https://raw.githubusercontent.com/migolan/nuFFTW/main/nuFFTW%20ISMRM13%20poster.png" title="" resizable="false"></a><br><strong>nuFFTW</strong><br>An auto-tuning, parallel library for computation<br>of the non-uniform fast Fourier transform.</p></td><td><p><a href="project2.md" rel="noopener noreferrer nofollow"><img alt="Project 2" src="assets/project2.png" title="" resizable="false"></a><br><strong>Project 2 Title</strong><br>Short description</p></td><td><p><a href="" rel="noopener noreferrer nofollow"><img alt="Project 3" src="assets/project3.png" title="" resizable="false"></a><br><strong>y</strong><br>x</p></td></tr></tbody></table>
+
+| | | |
+|:--------:|:--------:|:--------:|
+| <a href="github.com/migolan/nuFFTW"><img src="https://raw.githubusercontent.com/migolan/nuFFTW/main/nuFFTW%20ISMRM13%20poster.png" width="300"/></a> <br>**nuFFTW** <br> An auto-tuning, parallel library for computation <br> of the non-uniform fast Fourier transform. | [![Project 2](assets/project2.png)](project2.md) <br> **Project 2 Title** <br> Short description | [![Project 3](assets/project3.png)]() <br> **y** <br> x |
