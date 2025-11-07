@@ -1,4 +1,4 @@
-# Michal Golan <a href="github.com/migolan"><img src=icons/github-mark-white.png width="30"/></a>  <a href="linkedin.com/in/michal-golan"><img src=icons/InBug-White.png width="30"/></a>
+# Michal Golan <a href="github.com/migolan"><img src="icons/github-mark-white.png" width="30"/></a>  <a href="linkedin.com/in/michal-golan"><img src="icons/InBug-White.png" width="30"/></a>
 
 
 | | | |
