@@ -1,13 +1,21 @@
 # Michal Golan
 
-<h1 style="display: flex; justify-content: space-between; align-items: center;">
-  <span></span>
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <span><script>
+var user = 'my.name';
+var domain = 'my-site.com';
+document.write('<a href="mailto:' + user + '@' + domain + '">' + user + '@' + domain + '</a>');
+</script>
+<noscript>
+    Please enable JavaScript to see the email.
+</noscript></span>
   <span>
     <a href="https://github.com/migolan"><img src="icons/github-mark-white.png" width="30"/></a>
     <a href="https://linkedin.com/in/michal-golan"><img src="icons/InBug-White.png" width="30"/></a>
   </span>
-</h1>
+</p>
 
+------
 
 <table>
 <tr>
