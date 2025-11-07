@@ -1,7 +1,7 @@
-- title: Road Safety AI
-  description: Predicts road grip and tire wear from vehicle sensor data.
-  image: /assets/img/road_safety.jpg
-  link: /projects/road-safety
+- title: nuFFTW
+  description: An auto-tuning, parallel library for computation of the non-uniform fast Fourier transform.
+  image: https://github.com/migolan/nuFFTW/blob/main/nuFFTW%20ISMRM13%20poster.png
+  link: https://github.com/migolan/nuFFTW
 
 - title: Satellite Image Reconstruction
   description: Sparse signal reconstruction for MRI and satellite data.
