@@ -7,7 +7,7 @@
         var user = 'migolan';
         var domain = 'gmail.com';
         document.write('<a href="mailto:' + user + '@' + domain + '">');
-        document.write('<img src="icons/email.png" alt="Email ' + user + '@' + domain + '" style="width: 50px; height: 50px; border: none;">');
+        document.write('<img src="icons/email.png" width="30"' + user + '@' + domain + '" style="width: 50px; height: 50px; border: none;">');
         document.write('</a>');
     </script>
     <a href="https://github.com/migolan"><img src="icons/github.png" width="30"/></a>
