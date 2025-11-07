@@ -33,5 +33,12 @@ My MSc Thesis on<br>Burstiness-Constrained Markov Decision Processes
 <a href="https://github.com/migolan/IHM-route-analysis"><b>Improved elevation gain computation on IHM</b></a><br>
 Improving computation of the cumulative elevation gain along planned routes on the IHM app
 </td>
+<td align="center">
+<a href="https://github.com/migolan/dynasty"><img src="https://raw.githubusercontent.com/migolan/dynasty/main/widget_demo.gif" width="400"></a><br>
+<a href="https://github.com/migolan/dynasty"><b>Dynasty</b></a><br>
+A class hierarchy visualizer for python.
+</td>
 </tr>
 </table>
+
+
