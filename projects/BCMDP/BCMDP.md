@@ -10,8 +10,6 @@ The main contribution was developing an **augmented-state model** to transform t
 
 ## Thesis
 [Full Thesis (pdf)]("BCMDP thesis.pdf")
-
-Citation:
 ```bibtex
 @misc{alma990026208320203971,
     title = {Burstiness-constrained Markov decision processes / Michal Golan; [supervision: Nahum Shimkin].},
@@ -24,8 +22,6 @@ Citation:
 
 ## Paper
 [Published Paper on EJOR]("BCMDP EJOR publicaion.pdf")
-
-Citation:
 ```bibtex
 @article{GOLAN2024877,
     title = {Markov decision processes with burstiness constraints},
