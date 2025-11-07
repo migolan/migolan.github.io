@@ -1,6 +1,6 @@
 - title: nuFFTW
   description: An auto-tuning, parallel library for computation of the non-uniform fast Fourier transform.
-  image: https://github.com/migolan/nuFFTW/blob/main/nuFFTW%20ISMRM13%20poster.png
+  image: "https://github.com/migolan/nuFFTW/blob/main/nuFFTW%20ISMRM13%20poster.png"
   link: https://github.com/migolan/nuFFTW
 
 - title: Satellite Image Reconstruction
