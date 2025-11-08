@@ -1,8 +1,6 @@
 # Michal Golan
 
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <span></span>
-  <span>
+<p align="right">
     <script>
         var user = 'migolan';
         var domain = 'gmail.com';
@@ -12,7 +10,6 @@
     </script>
     <a href="https://github.com/migolan"><img src="https://raw.githubusercontent.com/migolan/migolan.github.io/main/icons/github.png" width="30"/></a>
     <a href="https://linkedin.com/in/michal-golan"><img src="https://raw.githubusercontent.com/migolan/migolan.github.io/main/icons/linkedin.png" width="30"/></a>
-  </span>
 </p>
 
 ------
