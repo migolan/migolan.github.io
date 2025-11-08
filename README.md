@@ -1,5 +1,15 @@
 # Michal Golan
 
+**Hi, I'm Michal Golan.**
+
+I'm an algorithm developer turned data scientist and machine learning researcher, with over 15 years of industry experience.
+Throughout my career, I've worked across a wide range of domains - from satellite, UAV and radar systems, to MRI, predictive maintenance and vehicle-road dynamics.
+
+My work has spanned topics such as navigation, filtering and estimation, operations research, resource allocation, discrete event simulation, signal processing, MRI image reconstruction, anomaly detection, time series prediction, ensemble network feature selection, data modelling, model training and evaluation, optimization, sensor fusion, sensor measurement error estimation, positioning techniques, and the list goes on.
+
+I hold a dual B.Sc. in Electrical Engineering and Physics, and an M.Sc. in Electrical Engineering, all from the Technion - Israel Institute of Technology.
+My master's thesis, supervised by Prof. Nahum Shimkin, focused on burstiness-constrained Markov Decision Processes (BCMDPs), where I developed efficient algorithms for policy optimization and proved their convergence and optimality.
+
 <p align="right">
     <script>
         var user = 'migolan';
