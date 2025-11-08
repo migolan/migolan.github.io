@@ -10,13 +10,10 @@
         document.write('<img src="icons/email.png" width="30">');
         document.write('</a>');
     </script>
-    <a href="https://github.com/migolan"><img src="icons/github.png" width="30"/></a>
-    <a href="https://linkedin.com/in/michal-golan"><img src="icons/linkedin.png" width="30"/></a>
+    <a href="https://github.com/migolan"><img src="https://raw.githubusercontent.com/migolan/migolan.github.io/main/icons/github.png" width="30"/></a>
+    <a href="https://linkedin.com/in/michal-golan"><img src="https://raw.githubusercontent.com/migolan/migolan.github.io/main/icons/linkedin.png" width="30"/></a>
   </span>
 </p>
-
-
-
 
 ------
 
