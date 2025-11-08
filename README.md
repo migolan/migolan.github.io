@@ -34,7 +34,7 @@ My master's thesis, supervised by Prof. Nahum Shimkin, focused on burstiness-con
 
 ------
 
-Here are a few of my public projects:
+Here are a few of my public projects & publications:
 
 <table>
 <tr>
