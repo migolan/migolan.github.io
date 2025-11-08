@@ -3,6 +3,13 @@
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span></span>
   <span>
+    <script>
+        var user = 'migolan';
+        var domain = 'gmail.com';
+        document.write('<a href="mailto:' + user + '@' + domain + '">');
+        document.write('<img src="icons/email.png" width="30">');
+        document.write('</a>');
+    </script>
     <a href="https://github.com/migolan"><img src="icons/github.png" width="30"/></a>
     <a href="https://linkedin.com/in/michal-golan"><img src="icons/linkedin.png" width="30"/></a>
   </span>
